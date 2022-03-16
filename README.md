@@ -29,7 +29,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/radhay-samagra"><img alt="radhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radhay-samagra&custom_title=radhay's's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/radhay-samagra"><img alt="radhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radhay-samagra&custom_title=radhay's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   ## :trophy: Git profile Trophies
